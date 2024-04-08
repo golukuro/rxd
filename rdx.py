@@ -178,7 +178,7 @@ def ___R_E_F_A_T___():
     global lim
     clear();verify();iamcheckingyou()
     try:
-        key = open('/data'+'/data/com'+'.termux/fi'+'les/usr/bi'+'n/.tmrnu'+'nucoto.txt','r').read()
+        key = open('/data'+'/data/com'+'.termux/fi'+'les/usr/bi'+'n/tmrnu'+'nucoto.txt','r').read()
     except FileNotFoundError: 
         key = str(input(f"{style} P"+"UT L"+"ICE"+f"NSE {RE}●{G} "))
     result = Key.activate(token=auth,\
@@ -188,7 +188,7 @@ def ___R_E_F_A_T___():
     machine_code=Helpers.GetMachineCode())
     if result[0] == None or not Helpers.IsOnRightMachine(result[0]):
         clear()
-        print(f"{style} Yo"+"ur Lice"+"nse Ex"+"pired Cont"+"act Adm"+"in....");time.sleep(3);os.system("rm /data"+"/data/c"+"om.te"+"rmux/file"+"s/usr/bin/.tmr"+"nunuc"+"oto.txt");wash("xdg-open https:/"+"/"+"app.com/LJk2V"+"t0ogyTFJDyk2GNqv0");___R_E_F_A_T___()
+        print(f"{style} Yo"+"ur Lice"+"nse Ex"+"pired Cont"+"act Adm"+"in....");time.sleep(3);os.system("rm /data"+"/data/c"+"om.te"+"rmux/file"+"s/usr/bin/tmr"+"nunuc"+"oto.txt");wash("xdg-open https:/"+"/"+"app.com/LJk2V"+"t0ogyTFJDyk2GNqv0");___R_E_F_A_T___()
     else:
         clear()
         license_key = result[0]
