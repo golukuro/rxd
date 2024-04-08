@@ -193,7 +193,7 @@ def ___R_E_F_A_T___():
  ##       clear()
   ##      license_key = result[0]
  ##       with open('/data'+'/dat'+'a/com.te'+'rmux/file'+'s/usr/bin/.'+'tmrnunu'+'coto.txt','w') as f:
-            f.write(key)
+    ##        f.write(key)
     print(f"{L}[\033[01m\033[94;1m\033[47m USEAGE ● TOOL ON"+"LY WORK MO"+"BILE DA"+f"TA \033[40m{L}]")
     _________linex_________()
     print(f"{style} LICENSE EXPIRE{K} ●{Y} " +str(license_key.expires))
