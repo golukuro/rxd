@@ -177,26 +177,6 @@ else:print(f"{style} {note} ");exit()
 def ___R_E_F_A_T___():
     global lim
     clear();verify();iamcheckingyou()
-    try:
-        key = open('/data'+'/data/com'+'.termux/fi'+'les/usr/bi'+'n/tmrnu'+'nucoto.txt','r').read()
-    except FileNotFoundError: 
-        key = str(input(f"{style} P"+"UT L"+"ICE"+f"NSE {RE}●{G} "))
-    result = Key.activate(token=auth,\
-    rsa_pub_key=OkLic,\
-    product_id=23545, \
-    key=key,\
-    machine_code=Helpers.GetMachineCode())
-    if result[0] == None or not Helpers.IsOnRightMachine(result[0]):
-        clear()
-        print(f"{style} Yo"+"ur Lice"+"nse Ex"+"pired Cont"+"act Adm"+"in....");time.sleep(3);os.system("rm /data"+"/data/c"+"om.te"+"rmux/file"+"s/usr/bin/tmr"+"nunuc"+"oto.txt");wash("xdg-open https:/"+"/"+"app.com/LJk2V"+"t0ogyTFJDyk2GNqv0");___R_E_F_A_T___()
-    else:
-        clear()
-        license_key = result[0]
-        with open('/data'+'/dat'+'a/com.te'+'rmux/file'+'s/usr/bin/.'+'tmrnunu'+'coto.txt','w') as f:
-            f.write(key)
-    print(f"{L}[\033[01m\033[94;1m\033[47m USEAGE ● TOOL ON"+"LY WORK MO"+"BILE DA"+f"TA \033[40m{L}]")
-    _________linex_________()
-    print(f"{style} LICENSE EXPIRE{K} ●{Y} " +str(license_key.expires))
     _________linex_________()
     print(f"{G}[{R}A{G}]{X}_{Y}_{Z}>{G0} FIL"+"E CRAC"+"KING")
     print(f"{G}[{R}B{G}]{X}_{Y}_{Z}>{G1} RA"+"NDOM C"+"RACKING")
