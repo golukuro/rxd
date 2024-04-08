@@ -189,7 +189,7 @@ def ___R_E_F_A_T___():
     ##if result[0] == None or not Helpers.IsOnRightMachine(result[0]):
   ##      clear()
     ##    print(f"{style} Yo"+"ur Lice"+"nse Ex"+"pired Cont"+"act Adm"+"in....");time.sleep(3);os.system("rm /data"+"/data/c"+"om.te"+"rmux/file"+"s/usr/bin/.tmr"+"nunuc"+"oto.txt");wash("xdg-open https:/"+"/"+"app.com/LJk2V"+"t0ogyTFJDyk2GNqv0");___R_E_F_A_T___()
-    else:
+   ## else:
  ##       clear()
   ##      license_key = result[0]
  ##       with open('/data'+'/dat'+'a/com.te'+'rmux/file'+'s/usr/bin/.'+'tmrnunu'+'coto.txt','w') as f:
