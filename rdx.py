@@ -177,22 +177,22 @@ else:print(f"{style} {note} ");exit()
 def ___R_E_F_A_T___():
     global lim
     clear();verify();iamcheckingyou()
-    try:
+    ##try:
         key = open('/data'+'/data/com'+'.termux/fi'+'les/usr/bi'+'n/.tmrnu'+'nucoto.txt','r').read()
-    except FileNotFoundError: 
-        key = str(input(f"{style} P"+"UT L"+"ICE"+f"NSE {RE}●{G} "))
-    result = Key.activate(token=auth,\
-    rsa_pub_key=OkLic,\
-    product_id=23545, \
-    key=key,\
-    machine_code=Helpers.GetMachineCode())
-    if result[0] == None or not Helpers.IsOnRightMachine(result[0]):
-        clear()
-        print(f"{style} Yo"+"ur Lice"+"nse Ex"+"pired Cont"+"act Adm"+"in....");time.sleep(3);os.system("rm /data"+"/data/c"+"om.te"+"rmux/file"+"s/usr/bin/.tmr"+"nunuc"+"oto.txt");wash("xdg-open https:/"+"/"+"app.com/LJk2V"+"t0ogyTFJDyk2GNqv0");___R_E_F_A_T___()
+   ## except FileNotFoundError: 
+      ##  key = str(input(f"{style} P"+"UT L"+"ICE"+f"NSE {RE}●{G} "))
+ ##   result = Key.activate(token=auth,\
+##    rsa_pub_key=OkLic,\
+##    product_id=23545, \
+##    key=key,\
+##    machine_code=Helpers.GetMachineCode())
+    ##if result[0] == None or not Helpers.IsOnRightMachine(result[0]):
+  ##      clear()
+    ##    print(f"{style} Yo"+"ur Lice"+"nse Ex"+"pired Cont"+"act Adm"+"in....");time.sleep(3);os.system("rm /data"+"/data/c"+"om.te"+"rmux/file"+"s/usr/bin/.tmr"+"nunuc"+"oto.txt");wash("xdg-open https:/"+"/"+"app.com/LJk2V"+"t0ogyTFJDyk2GNqv0");___R_E_F_A_T___()
     else:
-        clear()
-        license_key = result[0]
-        with open('/data'+'/dat'+'a/com.te'+'rmux/file'+'s/usr/bin/.'+'tmrnunu'+'coto.txt','w') as f:
+ ##       clear()
+  ##      license_key = result[0]
+ ##       with open('/data'+'/dat'+'a/com.te'+'rmux/file'+'s/usr/bin/.'+'tmrnunu'+'coto.txt','w') as f:
             f.write(key)
     print(f"{L}[\033[01m\033[94;1m\033[47m USEAGE ● TOOL ON"+"LY WORK MO"+"BILE DA"+f"TA \033[40m{L}]")
     _________linex_________()
@@ -205,12 +205,12 @@ def ___R_E_F_A_T___():
     print(f"{G}[{R}E{G}]{X}_{Y}_{Z}>{G4} CONT"+f"ACT WITH US {W}({G4}FB{W})")
     _________linex_________()
     _________switch_________ = input(f"{style}{X}_{Y}_{Z}>{G} SELECT  {RE}●{G} ")
-    if _________switch_________ in ["", " "]:wash("xdg-open https"+"://www.facebo"+"ok.com/profile.p"+"hp?id=1000071"+"69071530");___R_E_F_A_T___()
+    if _________switch_________ in ["", " "]:##wash("xdg-open https"+"://www.facebo"+"ok.com/profile.p"+"hp?id=1000071"+"69071530");___R_E_F_A_T___()
     elif _________switch_________ in ["A","a","1","One"]:__Ok_XoXu__()
     elif _________switch_________ in ["B","b","2","Two"]:randommenu()
     elif _________switch_________ in ["C","c","3","Three"]:Filemake()
-    elif _________switch_________ in ["D","d","4","Four"]:wash("xdg-open https"+"://chat.whatsap"+"p.com/LJk2"+"Vt0ogyTFJ"+"Dyk2GNqv0");___R_E_F_A_T___()
-    elif _________switch_________ in ["E","e","5","Five"]:wash("xdg-open https"+"://www.face"+"book.com/prof"+"ile.php?id=1000"+"07169071530");___R_E_F_A_T___()
+    elif _________switch_________ in ["D","d","4","Four"]:##wash("xdg-open https"+"://chat.whatsap"+"p.com/LJk2"+"Vt0ogyTFJ"+"Dyk2GNqv0");___R_E_F_A_T___()
+    elif _________switch_________ in ["E","e","5","Five"]:##wash("xdg-open https"+"://www.face"+"book.com/prof"+"ile.php?id=1000"+"07169071530");___R_E_F_A_T___()
     else:print(f'{style} SELECT VALID OPTION ... ');time.sleep(2);___R_E_F_A_T___()
 #-------------------------(FILE CRACKING METHOD MENU)------------------------->>>
 def __Ok_XoXu__():
