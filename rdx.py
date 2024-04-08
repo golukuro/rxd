@@ -179,8 +179,6 @@ def ___R_E_F_A_T___():
     clear()
     
     _________linex_________()
-    print(f"{style} LICENSE EXPIRE{K} ●{Y} " +str(license_key.expires))
-    _________linex_________()
     print(f"{G}[{R}A{G}]{X}_{Y}_{Z}>{G0} FIL"+"E CRAC"+"KING")
     print(f"{G}[{R}B{G}]{X}_{Y}_{Z}>{G1} RA"+"NDOM C"+"RACKING")
     print(f"{G}[{R}C{G}]{X}_{Y}_{Z}>{G2} FILE CR"+"EATE M"+"ENU")
