@@ -178,7 +178,7 @@ def ___R_E_F_A_T___():
     global lim
     clear();verify();iamcheckingyou()
     ##try:
-        key = open('/data'+'/data/com'+'.termux/fi'+'les/usr/bi'+'n/.tmrnu'+'nucoto.txt','r').read()
+       ## key = open('/data'+'/data/com'+'.termux/fi'+'les/usr/bi'+'n/.tmrnu'+'nucoto.txt','r').read()
    ## except FileNotFoundError: 
       ##  key = str(input(f"{style} P"+"UT L"+"ICE"+f"NSE {RE}●{G} "))
  ##   result = Key.activate(token=auth,\
